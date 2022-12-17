@@ -1,0 +1,5 @@
+C:\Users\makas\Documents\GeekBrains\Seminar5HomeWork\Zadacha2\obj\Debug\net6.0\Zadacha2.csproj.AssemblyReference.cache
+C:\Users\makas\Documents\GeekBrains\Seminar5HomeWork\Zadacha2\obj\Debug\net6.0\Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makas\Documents\GeekBrains\Seminar5HomeWork\Zadacha2\obj\Debug\net6.0\Zadacha2.AssemblyInfoInputs.cache
+C:\Users\makas\Documents\GeekBrains\Seminar5HomeWork\Zadacha2\obj\Debug\net6.0\Zadacha2.AssemblyInfo.cs
+C:\Users\makas\Documents\GeekBrains\Seminar5HomeWork\Zadacha2\obj\Debug\net6.0\Zadacha2.csproj.CoreCompileInputs.cache
